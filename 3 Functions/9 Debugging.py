@@ -8,4 +8,3 @@ def multiply(*numbers):
 
 print('Start')
 print(multiply(2,5,5,5,4))
-
