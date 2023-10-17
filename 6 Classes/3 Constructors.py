@@ -6,8 +6,8 @@ class Point:
         self.y = y 
 
     def draw(self):
-    	print('Drawing..')
-    	print(f'Point ({self.x},{self.y})')
+        print('Drawing..')
+        print(f'Point ({self.x},{self.y})')
 
 # first instance
 p1 = Point(1,2)
